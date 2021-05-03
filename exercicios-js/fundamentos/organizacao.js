@@ -3,7 +3,7 @@ console.log("Setença de código")
 {
     {
         console.log("Olá");
-        console.log('Mundo') // Padrão do curso
+        console.log('Mundo') // Padrão do curso (sem ponto e virgula)
     }
     
 }
